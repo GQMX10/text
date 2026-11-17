@@ -6,15 +6,9 @@
 
 window.POSTS = [
   {
-    title: "术士券笑话",
+    title: "测试",
     date: "2025-03-02",
-    desc: "（笑）",
-    slug: "joke"
-  },
-    {
-    title: "初夜本番篇",
-    date: "2026-11-12",
-    desc: "搞笑R18",
-    slug: "chuye"
+    desc: "文本",
+    slug: "text"
   }
 ];
