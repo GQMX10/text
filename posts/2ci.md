@@ -47,12 +47,13 @@ id：15420671
 <br>
 <br>
 
-<span style="color:##E7E2D9;">作者简介有在故意模糊/不提及人物。</span>
+测试
+<span style="color:#E7E2D9;">作者简介有在故意模糊/不提及人物。</span>
 
 <br>
 <br>
 
-<span style="color:##E7E2D9;">强奸场景是路人(伪)x司。</span>
+<span style="color:#E7E2D9;">强奸场景是路人(伪)x司。</span>
 
 :::
 
