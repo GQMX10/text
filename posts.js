@@ -10,11 +10,5 @@ window.POSTS = [
     date: "2025-03-02",
     desc: "文本",
     slug: "text"
-  },
-   {
-    title: "text",
-    date: "2026-03-02",
-    desc: "",
-    slug: "1"
   }
 ];
