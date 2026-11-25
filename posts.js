@@ -11,12 +11,6 @@ window.POSTS = [
     desc: "文本",
     slug: "text"
   },
- {
-    title: "看看情况",
-    date: "2025-01-02",
-    desc: "",
-    slug: "onlyyou_fixed"
-  },
    {
     title: "text",
     date: "2026-03-02",
