@@ -12,10 +12,10 @@ window.POSTS = [
     slug: "text"
   },
  {
-    title: "换行",
+    title: "看看情况",
     date: "2025-01-02",
     desc: "",
-    slug: "1"
+    slug: "posts/onlyyou_fixed"
   },
    {
     title: "2次",
