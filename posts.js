@@ -15,12 +15,12 @@ window.POSTS = [
     title: "看看情况",
     date: "2025-01-02",
     desc: "",
-    slug: "posts/onlyyou_fixed"
+    slug: "onlyyou_fixed"
   },
    {
-    title: "2次",
+    title: "text",
     date: "2026-03-02",
     desc: "",
-    slug: "2ci"
+    slug: "1"
   }
 ];
